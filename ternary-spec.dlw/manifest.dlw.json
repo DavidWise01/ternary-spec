@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-TERNARY_SPEC",
+  "name": "TERNARY LOGIC · TRN",
+  "universe": "PSĒPHOS",
+  "moniker": "⟦TERNARY LOGIC · TRN:ternary-spec:e2585e⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "e2585eae5c2612fdc15cdfd655adf9a9b67a2b5f0f2f6c89d9f97b13a4c82bd3",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
